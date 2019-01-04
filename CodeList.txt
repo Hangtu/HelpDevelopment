@@ -1,0 +1,23 @@
+NODEJS & EXPRESS
+
+express name-of-your-project
+npm install -g nodemon
+nodemon ./bin/www -> execute express server
+npm start -> start nodeJS app
+
+
+
+
+PYTHON
+python <name of the file> // runs the file
+
+IONIC
+
+ionic cordova run android --device -l -c
+ionic cordova build android // to run cordova app
+cordova clean //clean :app:transformDexArchiveWithExternalLibsDexMergerForDebug
+
+ANGULAR 4
+ng new myApp
+ng serve
+ng build --prod // this build prod mode to run wherever you want.
